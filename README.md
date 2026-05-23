@@ -27,3 +27,7 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 - This game is heavily inspired by [The Password Game](https://neal.fun/password-game/) made by [Neal](https://twitter.com/nealagarwal)
 - This game was developed using the [Next.js](https://nextjs.org/) framework.
 - [Reload icon by mavadee](https://www.freepik.com/icon/reload_3580291#fromView=keyword&term=Refresh&page=1&position=15)
+
+---
+
+**Personal Note** : This repository is a variant of the Quirky Lock made for the Neural Odyssey event, conducted by Epoch - The AI/ML club of IIIT Sri City in M2025.
